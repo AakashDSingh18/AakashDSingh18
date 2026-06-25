@@ -82,7 +82,7 @@ Legend: 🟩 Active  🟨 Moderate  🟥 Low  ⬜ None
 
 ## 📊 GitHub Stats Card
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/AakashDSingh18?tab=repositories))
 
 ---
 
