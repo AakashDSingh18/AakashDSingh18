@@ -9,9 +9,6 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 ### 📈 Dynamic Contribution Heatmap
 ![Contribution Graph](https://github-readme-stats.vercel.app/api?username=AakashDSingh18&theme=radical&show_icons=true&count_private=true&hide_border=true)
 
-### 🔥 Streak Statistics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashDSingh18&theme=radical&hide_border=true)
-
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashDSingh18&layout=compact&theme=radical&hide_border=true)
 
