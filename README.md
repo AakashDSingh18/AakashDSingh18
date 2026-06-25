@@ -74,15 +74,15 @@ Legend: 🟩 Active  🟨 Moderate  🟥 Low  ⬜ None
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AakashDSingh18&repo=spectrax_1&theme=radical&hide_border=true" />
 </a>
 
-<a href="https://github.com/AakashDSingh18/AlgoFi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AakashDSingh18&repo=AlgoFi&theme=radical&hide_border=true" />
+<a href="https://github.com/AakashDSingh18/BWU_full-stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AakashDSingh18&repo=BWU_full-stack&theme=radical&hide_border=true" />
 </a>
 
 ---
 
 ## 📊 GitHub Stats Card
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)]([https://github.com/AakashDSingh18?tab=repositories](https://github.com/AakashDSingh18?tab=repositories))
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)](https://github.com/AakashDSingh18?tab=repositories)
 
 ---
 
