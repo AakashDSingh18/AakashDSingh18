@@ -80,12 +80,6 @@ Legend: 🟩 Active  🟨 Moderate  🟥 Low  ⬜ None
 
 ---
 
-## 🌟 Activity Overview
-
-<img src="https://activity-graph.herokuapp.com/graph?username=AakashDSingh18&theme=radical&hide_border=true" alt="Contribution Activity Graph" />
-
----
-
 ## 📊 GitHub Stats Card
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -122,8 +116,6 @@ Legend: 🟩 Active  🟨 Moderate  🟥 Low  ⬜ None
 <div align="center">
 
 ### 🎉 Thanks for visiting! Feel free to explore my repositories
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAakashDSingh18&count_bg=%2300d084&title_bg=%231a1b27&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ⭐ **If you like my work, consider giving it a star!** ⭐
 
