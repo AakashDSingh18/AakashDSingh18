@@ -15,27 +15,7 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashDSingh18&layout=compact&theme=radical&hide_border=true)
 
-### 📊 Animated Contribution Calendar
-<details>
-<summary><b>Click to expand interactive stats</b></summary>
-
-```
-📅 This Year's Activity Overview
-┌─────────────────────────────────────────────────┐
-│  Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct │
-├─────────────────────────────────────────────────┤
-│  🟩🟩🟨🟩🟩🟩🟩🟩🟩🟩                           2026  │
-│  🟩🟥🟨🟩🟩🟩🟩🟩🟩🟩                                   │
-│  🟩🟩🟨🟩🟩🟨🟩🟩🟩🟩                                   │
-│  🟩🟩🟨🟩🟩🟩🟩🟩🟩🟩                                   │
-│  🟩🟩🟨🟩🟩🟩🟩🟩🟩🟩                                   │
-│  🟩🟩🟨🟩🟩🟩🟩🟩🟩🟩                                   │
-│  🟩🟩🟨🟩🟩🟩🟩🟩🟩🟩                                   │
-└─────────────────────────────────────────────────┘
-Legend: 🟩 Active  🟨 Moderate  🟥 Low  ⬜ None
-```
-
-</details>
+---
 
 ### 🎯 Project Impact Dashboard
 | 📌 Metric | 📊 Value |
