@@ -4,23 +4,8 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 
 ---
 
-## 🎨 Creative Contribution Showcase
-
-### 📈 Dynamic Contribution Heatmap
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=AakashDSingh18&theme=radical&show_icons=true&count_private=true&hide_border=true)
-
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashDSingh18&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 🎯 Project Impact Dashboard
-| 📌 Metric | 📊 Value |
-|-----------|---------|
-| 🔄 Total Contributions | Tracking... |
-| 🏆 Longest Streak | Updating Daily |
-| 💡 Average Commits/Day | Computing... |
-| 🌟 Most Active Month | Jun 2026 |
 
 ---
 
@@ -60,15 +45,6 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 ## 📊 GitHub Stats Card
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashDSingh18&bg_color=1a1b27&color=616e8c&line=00d084&point=00d084&area=true&hide_border=true)](https://github.com/AakashDSingh18?tab=repositories)
-
----
-
-## 🚀 Quick Stats
-
-- 🎯 Contributions This Year: Tracked by GitHub
-- 🔄 Average Daily Activity: Real-time
-- 💻 Most Productive Day: Varies
-- ⭐ Total Stars: Accumulating
 
 ---
 
