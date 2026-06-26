@@ -13,7 +13,7 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 
 - 🤖 AI-driven applications
 - 💻 Web dev & Data science
-- 🏋️ Fitness tech & Problem solving
+- 🏋️ Fitness & Problem solving
 - 📚 Learning & Experimenting with new tech
 - 🎨 Creative coding & UI/UX design
 
@@ -24,9 +24,7 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -53,16 +51,6 @@ I'm **Aakash**, a developer exploring Machine Learning, full-stack development, 
 - 💼 Open to collaborations and learning opportunities
 - 📧 Feel free to reach out if you have interesting ideas!
 - 🌐 Check out my projects and contributions above
-
----
-
-## ✨ Fun Facts
-
-- 🧠 Always learning something new
-- 🎨 Love creative coding challenges
-- 🏃 Fitness tech enthusiast
-- 🌱 Passionate about open-source
-- ⚡ Coffee-driven developer
 
 ---
 
